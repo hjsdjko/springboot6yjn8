@@ -1,15 +1,12 @@
-
-[索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
-
+[点我查看本系统详细介绍](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3438552322228256777#wechat_redirect)
 
 关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
 
-- 微信扫一扫 (爱毕设) 获取源码
+- **`微信扫一扫 (爱毕设) 获取源码 或 查看演示视频`**
 
 ![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
 
 ***************************************************************
-
 系统架构
 
 前端：html | js | css | jquery | vue
@@ -31,13 +28,3 @@
 5、打开浏览器，参考<说明文档.txt>中的地址
 
 ***************************************************************
-
-![cecb6a704eda08fee84f928ad17602b](https://github.com/hjsdjko/springboot6yjn8/assets/120558513/4103db71-9678-412f-b27f-a60757e6ac85)
-
-![9db4c55bf32d1bf1cda299c6e681dee](https://github.com/hjsdjko/springboot6yjn8/assets/120558513/6c7c90b6-2b34-422e-9c93-f9f64f4594ba)
-
-![0dfa201ffd68da41e6b8c35b2732e8b](https://github.com/hjsdjko/springboot6yjn8/assets/120558513/6ac280c2-34ac-477f-8fd5-902eab085401)
-
-![eaeeabdded2f67e65351383bc1f9b3f](https://github.com/hjsdjko/springboot6yjn8/assets/120558513/12f58fd1-0564-44c0-ab3d-b7872dfc4343)
-
-![2942ff9d04d61100468e115bbcb2077](https://github.com/hjsdjko/springboot6yjn8/assets/120558513/2c608467-c81d-4a97-a77d-569dfe785885)
